@@ -1,2 +1,2 @@
-![Texto alternativo](![image](https://github.com/user-attachments/assets/7dcb6d73-6d70-4ae3-8d2d-2ee075de4561)
+![Texto alternativo](https://github.com/EMAXSS05/Trip-Table/blob/main/imagen-trip-table.png)
 )
